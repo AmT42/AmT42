@@ -51,4 +51,4 @@ Earlier: [Q-learning maze generator](https://github.com/AmT42/q-learning-maze-ge
 - [paper-qa #1302](https://github.com/Future-House/paper-qa/pull/1302): citation ingestion fix (merged).
 
 ---
-[LinkedIn](https://www.linkedin.com/in/ahmet-celebi-973b63197) · ahmet_celebi@hotmail.fr
+[LinkedIn](https://www.linkedin.com/in/ahmet2109/) · ahmet_celebi@hotmail.fr
