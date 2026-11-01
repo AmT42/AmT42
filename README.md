@@ -2,7 +2,7 @@
 
 **I build with each new AI capability, to make people more efficient.** Sometimes that means putting it in the hands of people who never read a model card. Sometimes it means pushing it further than it goes alone.
 
-Co-founder and Chief AI Officer at [DeltaWave](https://deltawave.fr), Paris. I designed eve, our agent harness for drug discovery: agent loop, tool calling, sub-agents, memory, context compaction, sandboxed code execution, and crash recovery across workers. First enterprise contract signed with a Nasdaq-listed company (deployment in progress). I design and verify; coding agents implement.
+Co-founder and Chief AI Officer at [DeltaWave](https://deltawave.fr), Paris. I designed EVE, our AI co-scientist. A scientist asks whether a drug's binding is reproducible in docking; EVE finds the structures, runs the experiment, and returns an answer traced to its sources, in a secure environment the customer controls. First enterprise contract signed with a Nasdaq-listed company (deployment in progress). Second SPRIND Challenge award in 2026.
 
 Before DeltaWave: data scientist at SESAMm and reciTAL. M2 in mathematics (M2MO, Université de Paris).
 
